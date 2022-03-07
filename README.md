@@ -1,0 +1,1 @@
+# POO_Implementando_Interface_typescript
