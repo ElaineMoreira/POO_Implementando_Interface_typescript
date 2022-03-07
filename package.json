@@ -1,0 +1,26 @@
+{
+  "name": "poo_implementando_interface_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElaineMoreira/POO_Implementando_Interface_typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElaineMoreira/POO_Implementando_Interface_typescript/issues"
+  },
+  "homepage": "https://github.com/ElaineMoreira/POO_Implementando_Interface_typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "ts-node": "^10.7.0"
+  }
+}
