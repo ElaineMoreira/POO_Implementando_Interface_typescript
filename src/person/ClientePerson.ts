@@ -1,4 +1,4 @@
-class ClientPerson implements IPerson {
+export class ClientPerson implements IPerson {
   name: string;
 
   constructor() {

@@ -1,11 +1,11 @@
 export class DeliveryPerson implements IPerson {
-  name: string;
+  public name: string;
 
   constructor() {
     this.name = "";
   }
 
-  indentifier(): string {
+  public indentifier(): string {
     return "Aqui está o DeliveryPerson";
   }
 }
